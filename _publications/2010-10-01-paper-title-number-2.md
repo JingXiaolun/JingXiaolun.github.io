@@ -11,7 +11,7 @@ paperurl: 'https://doi.org/10.1016/j.inffus.2025.103151'
 citation: 'Xiaolun Jing, Genke Yang, Jian Chu. TC-MGC: Text-conditioned multi-grained contrastive learning for text-video retrieval[J]. Information Fusion, 2025, 121:103151.'
 ---
 
-# Abstract
+## Abstract
 Motivated by the success of coarse-grained or fine-grained contrast in text–video retrieval, there emerge
 multi-grained contrastive learning methods which focus on the integration of contrasts with different granularity. However, due to the wider semantic range of videos, the text-agnostic video representations might
 encode misleading information not described in texts, thus impeding the model from capturing precise
@@ -30,5 +30,5 @@ text–video retrieval benchmarks, outperforming X-CLIP model by +2.8% (+1.3%), 
 (+0.9%) relative (absolute) improvements in text-to-video retrieval R@1 on MSR-VTT, DiDeMo and VATEX,
 respectively. Our code is publicly available at https://github.com/JingXiaolun/TC-MGC.
 
-# Key words
-Language–video attention;Linear Softmax Aggregation;Similarity Decorrelation Regularization;Similarity reorganization;Text–video retrieval
+## Key words
+Language–video attention; Linear Softmax Aggregation; Similarity Decorrelation Regularization; Similarity reorganization; Text–video retrieval
