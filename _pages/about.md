@@ -16,7 +16,7 @@ I have worked as a computer vision algorithm engineer in Shanghai Xunmeng Inform
 
 # News
 ## Paer is on the way
-Our paper ["PHA-Net: Prototype-based hierarchical alignment network for text-video retrieval"](https://jingxiaolun.github.io/) is on the way
+Our paper ["PHA-Net: Prototype-based hierarchical alignment network for text-video retrieval"](https://jingxiaolun.github.io/) is on the way.
 
 ## Conference paper accepted by China Automation Congress (CAC), 2025
 Oue paper ["Text-Video Retrieval With Global-Local Contrastive Consistency Learning"](https://jingxiaolun.github.io/) is accepted by [China Automation Congress (CAC), 2025](https://ieeexplore.ieee.org/xpl/conhome/10864465/proceeding).
