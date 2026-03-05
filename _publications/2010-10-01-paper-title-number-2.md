@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "TC-MGC: Text-Conditioned Multi-Grained Contrastive Learning for Text–Video Retrieval"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
