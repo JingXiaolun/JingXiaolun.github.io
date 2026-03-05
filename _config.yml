@@ -23,7 +23,7 @@ repository               : "JingXiaolun/JingXiaolun.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/jingxiaolun.png"
+  avatar           : "jingxiaolun.png"
   name             : "Xiaolun Jing"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student, SJTU"
