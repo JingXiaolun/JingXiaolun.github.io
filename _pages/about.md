@@ -12,7 +12,7 @@ I am a Ph.D. candidate in the School of Automation and Intelligent Sensing at [S
 
 I received the B.S. degree from [Central South University (CSU)](https://www.csu.edu.cn/), in 2017, the M.S. degree from [Xi’an Jiaotong University (XJTU)](https://www.xjtu.edu.cn/), in 2020.
 
-I have worked as a computer vision algorithm engineer in Shanghai Xunmeng Information Technology Co., Ltd. From July 2020 to May 2022, I am responsibile for the application of computer vision technology, such as image classification and objection detection, in large-scale e-commerce scenarios.
+I have worked as a computer vision algorithm engineer in Shanghai Xunmeng Information Technology Co., Ltd. From July 2020 to May 2022, I was responsibile for the application of computer vision technology, such as image classification and objection detection, in large-scale e-commerce scenarios.
 
 # News
 ## Paer is on the way
