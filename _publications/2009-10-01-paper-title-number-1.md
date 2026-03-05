@@ -2,7 +2,7 @@
 title: "An Empirical Study of Excitation and Aggregation Design Adaptions in CLIP4Clip for Video–Text Retrieval"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/EA-CLIP4Clip
 excerpt: 'In this work, we rethink the inherent limitation of widely-used mean pooling operation in the frame features
 aggregation and investigate the adaptions of excitation and aggregation design for discriminative video
 representation generation.'
