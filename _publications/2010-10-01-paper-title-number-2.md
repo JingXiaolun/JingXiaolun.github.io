@@ -6,7 +6,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2025-03-23
 venue: 'Journal Of Information Fusion'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S1566253525002246?via%3Dihub'
+paperurl: 'https://doi.org/10.1016/j.inffus.2025.103151'
 citation: 'Xiaolun Jing, Genke Yang, Jian Chu. TC-MGC: Text-conditioned multi-grained contrastive learning for text-video retrieval[J]. Information Fusion, 2025, 121:103151.'
 ---
 
