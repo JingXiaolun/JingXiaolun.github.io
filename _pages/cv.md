@@ -11,26 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Shanghai, Shanghai Jiao Tong University, 2026 
+* M.S. in Xi'an, Xi'an Jiao Tong University, 2020
+* B.S. in Changsha, Central South University, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2020: computer vision algorithm engineer
+  * Shanghai Xunmeng Information Technology Co., Ltd
+  * Duties includes: computer vision technology in e-commerce scenarios
   
 Skills
 ======
