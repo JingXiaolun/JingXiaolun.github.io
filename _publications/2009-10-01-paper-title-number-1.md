@@ -7,7 +7,7 @@ excerpt: 'In this work, we rethink the inherent limitation of widely-used mean p
 aggregation and investigate the adaptions of excitation and aggregation design for discriminative video
 representation generation.'
 date: 2024-10-01
-venue: 'Journal of Neurocomputing'
+venue: 'Neurocomputing'
 paperurl: 'https://doi.org/10.1016/j.neucom.2024.127905'
 citation: 'Xiaolun Jing, Genke Yang, Jian Chu. An empirical study of excitation and aggregation design adaptions in CLIP4Clip for video-text retrieval[J]. Neurocomputing, 2024, 596:127905.'
 ---
