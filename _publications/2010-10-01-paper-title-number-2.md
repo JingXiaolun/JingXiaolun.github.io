@@ -3,7 +3,7 @@ title: "TC-MGC: Text-Conditioned Multi-Grained Contrastive Learning for Text–V
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'In this paper, we propose a novel Text-Conditioned Multi-Grained Contrast (TCMGC) framework to explore multi-grained contrasts between textual
+excerpt: 'In this paper, we propose a novel Text-Conditioned Multi-Grained Contrast (TC-MGC) framework to explore multi-grained contrasts between textual
 and semantic-relevant visual representations.'
 date: 2025-03-23
 venue: 'Journal Of Information Fusion'
