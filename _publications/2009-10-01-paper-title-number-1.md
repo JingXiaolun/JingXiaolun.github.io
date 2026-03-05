@@ -3,7 +3,9 @@ title: "An Empirical Study of Excitation and Aggregation Design Adaptions in CLI
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'In this work, we rethink the inherent limitation of widely-used mean pooling operation in the frame features
+aggregation and investigate the adaptions of excitation and aggregation design for discriminative video
+representation generation.'
 date: 2024-10-01
 venue: 'Journal of Neurocomputing'
 paperurl: 'https://doi.org/10.1016/j.neucom.2024.127905'
