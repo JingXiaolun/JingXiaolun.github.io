@@ -8,7 +8,12 @@ redirect_from:
 ---
 
 # About Me
-Hi, I am a Ph.D. candidate in the School of Automation and Intelligent Sensing at [**<font color="red">Shanghai Jiao Tong University (SJTU)</font>**](https://www.sjtu.edu.cn/) since the fall of 2022 under the supervision of Prof. [**<font color="blue">Genke Yang</font>**](https://ieeexplore.ieee.org/author/37276272200). My current research interests include video understanding, video action recognition and video-text retrieval in multimodal understanding. 
+Hi, I am a Ph.D. candidate in the School of Automation and Intelligent Sensing at [**<font color="red">Shanghai Jiao Tong University (SJTU)</font>**](https://www.sjtu.edu.cn/) since the fall of 2022 under the supervision of Prof. [**<font color="blue">Genke Yang</font>**](https://ieeexplore.ieee.org/author/37276272200). My current research interests include:
+- Video Understanding
+- Video Action Recognition
+- Video-Text Retrieval  
+
+**<font color="red">I am looking for my next position in the academia starting in 2027. If my profile aligns with your institution’s needs, I would greatly appreciate the opportunity to connect. Please feel free to reach out at jingxiaolun.github.io.</font>**
 
 # Education
 - **Ph.D** in control engineering at [**<font color="red">Shanghai Jiao Tong University</font>**](https://www.sjtu.edu.cn/).
