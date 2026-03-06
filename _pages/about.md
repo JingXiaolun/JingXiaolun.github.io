@@ -21,7 +21,7 @@ Hi, I am a Ph.D. candidate in the School of Automation and Intelligent Sensing a
   - Sep. 2013 - Jun. 2017
 
 # Work Experience
-- ![]("https://github.com/JingXiaolun/JingXiaolun.github.io/tree/master/images/pdd.png?raw=true") **Shanghai Xunmeng Information Technology Co., Ltd**
+- ![]("https://github.com/JingXiaolun/JingXiaolun.github.io/tree/master/images/pdd.png?") **Shanghai Xunmeng Information Technology Co., Ltd**
   - Shanghai, China (Jul. 2020 - May. 2022)
   - Computer Vision Algorithm Engineer  
 
