@@ -35,7 +35,7 @@ Our paper **DTE-Net: Dynamic-Text-Enhanced Hierarchical Matching for Text-Video 
 
 Our paper **PHA-Net: Prototype-based Hierarchical Alignment Network for Text-Video Retrieval** is on the way.
 
-**<font color="red">Aug. 2025</font>** Our paper **Text-Video Retrieval With Global-Local Contrastive Consistency Learning** has been accepted to conference of China Automation Congress (CAC), 2025!
+**<font color="red">Aug. 2025</font>** Our paper **Text-Video Retrieval With Global-Local Contrastive Consistency Learning** has been accepted to conference of China Automation Congress (CAC)!
 
 **<font color="red">Mar. 2025</font>** Our paper **TC-MGC: Text-Conditioned Multi-Grained Contrastive Learning for Text–Video Retrieval** has been accepted to journal of Information Fusion!
 
