@@ -17,11 +17,11 @@ I have worked as a computer vision algorithm engineer in Shanghai Xunmeng Inform
 # News
 Our paper **PHA-Net: Prototype-based Hierarchical Alignment Network for Text-Video Retrieval** is on the way.
 
-<font color="red">**Aug.2025**</font> Our paper **Text-Video Retrieval With Global-Local Contrastive Consistency Learning** has been accepted to conference of China Automation Congress (CAC), 2025!
+**<font color="red">Aug.2025</font>** Our paper **Text-Video Retrieval With Global-Local Contrastive Consistency Learning** has been accepted to conference of China Automation Congress (CAC), 2025!
 
-<font color="red">**Mar.2025**</font> Our paper **TC-MGC: Text-Conditioned Multi-Grained Contrastive Learning for Text–Video Retrieval** has been accepted to journal of Information Fusion!
+**<font color="red">Mar.2025</font>** Our paper **TC-MGC: Text-Conditioned Multi-Grained Contrastive Learning for Text–Video Retrieval** has been accepted to journal of Information Fusion!
 
-<font color="red">**May.2024**</font> Our paper **An Empirical Study of Excitation and Aggregation Design Adaptions in CLIP4Clip for Video–Text Retrieval** has been accepted to journal of Neurocomputing!
+**<font color="red">May.2024</font>** Our paper **An Empirical Study of Excitation and Aggregation Design Adaptions in CLIP4Clip for Video–Text Retrieval** has been accepted to journal of Neurocomputing!
 
 
 
