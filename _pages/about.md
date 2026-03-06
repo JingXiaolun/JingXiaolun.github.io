@@ -12,18 +12,19 @@ Hi, I am a Ph.D. candidate in the School of Automation and Intelligent Sensing a
 
 # Education
 - **Ph.D** in control engineering at [**<font color="red">Shanghai Jiao Tong University</font>**](https://www.sjtu.edu.cn/).
-  Sep. 2022 - Present
+  - Sep. 2022 - Present
 
 -  **M.S.** in control engineering at [**<font color="red">Xi'an Jiao Tong University</font>**](https://www.xjtu.edu.cn/).
-  Sep. 2017 - Jun. 2020
+  -  Sep. 2017 - Jun. 2020
+   
 
 - **B.S.** in detection, guidance and control technology at [**<font color="red">Central South University</font>**](https://www.xjtu.edu.cn/).
-  Sep. 2013 - Jun. 2017
+  - Sep. 2013 - Jun. 2017
 
 # Work Experience
 - **Shanghai Xunmeng Information Technology Co., Ltd**
-  Shanghai, China (Jul. 2020 - May. 2022)
-  Computer Vision Algorithm Engineer  
+  - Shanghai, China (Jul. 2020 - May. 2022)
+  - Computer Vision Algorithm Engineer  
 
 # News
 Our paper **DTE-Net: Dynamic-Text-Enhanced Hierarchical Matching for Text-Video Retrieval** is on the way.
