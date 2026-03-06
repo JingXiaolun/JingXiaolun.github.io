@@ -21,7 +21,7 @@ Hi, I am a Ph.D. candidate in the School of Automation and Intelligent Sensing a
   - Sep. 2013 - Jun. 2017
 
 # Work Experience
-- <img src="pdd.png" width = "100" height = "100" alt="" align=center /> **Shanghai Xunmeng Information Technology Co., Ltd**
+- <img src="../images/pdd.png" width = "50" height = "50" alt="" align=center /> **Shanghai Xunmeng Information Technology Co., Ltd**
   - Shanghai, China (Jul. 2020 - May. 2022)
   - Computer Vision Algorithm Engineer  
 
