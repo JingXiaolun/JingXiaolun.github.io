@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Page"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,9 +10,20 @@ redirect_from:
 # About Me
 Hi, I am a Ph.D. candidate in the School of Automation and Intelligent Sensing at [**<font color="red">Shanghai Jiao Tong University (SJTU)</font>**](https://www.sjtu.edu.cn/) since the fall of 2022 under the supervision of Prof. [**<font color="blue">Genke Yang</font>**](https://ieeexplore.ieee.org/author/37276272200). My current research interests include video understanding, video action recognition and video-text retrieval in multimodal understanding. 
 
-I received the B.S. degree from [**<font color="red">Central South University (CSU)</font>**](https://www.csu.edu.cn/), in 2017, the M.S. degree from [**<font color="red">Xi'an Jiao Tong University (XJTU)</font>**](https://www.xjtu.edu.cn/), in 2020.
+# Education
+- **Ph.D** in control engineering at [**<font color="red">Shanghai Jiao Tong University</font>**](https://www.sjtu.edu.cn/).
+  Sep. 2022 - Present
 
-I have worked as a **<font color="blue">computer vision algorithm engineer</font>** in **<font color="red">Shanghai Xunmeng Information Technology Co., Ltd</font>**. From July. 2020 to May. 2022, I was responsibile for the application of computer vision technology, such as image classification and objection detection, in large-scale e-commerce scenarios.
+-  **M.S.** in control engineering at [**<font color="red">Xi'an Jiao Tong University</font>**](https://www.xjtu.edu.cn/).
+  Sep. 2017 - Jun. 2020
+
+- **B.S.** in detection, guidance and control technology at [**<font color="red">Central South University</font>**](https://www.xjtu.edu.cn/).
+  Sep. 2013 - Jun. 2017
+
+# Work Experience
+- **Shanghai Xunmeng Information Technology Co., Ltd**
+  Shanghai, China (Jul. 2020 - May. 2022)
+  Computer Vision Algorithm Engineer  
 
 # News
 Our paper **DTE-Net: Dynamic-Text-Enhanced Hierarchical Matching for Text-Video Retrieval** is on the way.
