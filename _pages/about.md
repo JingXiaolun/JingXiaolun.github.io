@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 # About Me
-Hi, I am a Ph.D. candidate in the School of Automation and Intelligent Sensing at [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) since the fall of 2022 under the supervision of [Prof. Genke Yang](https://ieeexplore.ieee.org/author/37276272200). My current research interests include video understanding, video action recognition and video-text retrieval in multimodal understanding. 
+Hi, I am a Ph.D. candidate in the School of Automation and Intelligent Sensing at [**<font color="red">Shanghai Jiao Tong University (SJTU)</font>**](https://www.sjtu.edu.cn/) since the fall of 2022 under the supervision of Prof. [**<font color="blue">Genke Yang</font>**](https://ieeexplore.ieee.org/author/37276272200). My current research interests include video understanding, video action recognition and video-text retrieval in multimodal understanding. 
 
-I received the B.S. degree from [Central South University (CSU)](https://www.csu.edu.cn/), in 2017, the M.S. degree from [Xi’an Jiaotong University (XJTU)](https://www.xjtu.edu.cn/), in 2020.
+I received the B.S. degree from [**<font color="red">Central South University (CSU)</font>**](https://www.csu.edu.cn/), in 2017, the M.S. degree from [**<font color="red">Xi'an Jiao Tong University</font>**](https://www.xjtu.edu.cn/), in 2020.
 
-I have worked as a computer vision algorithm engineer in Shanghai Xunmeng Information Technology Co., Ltd. From July 2020 to May 2022, I was responsibile for the application of computer vision technology, such as image classification and objection detection, in large-scale e-commerce scenarios.
+I have worked as a **<font color="blue">computer vision algorithm engineer</font>** in **<font color="red">Shanghai Xunmeng Information Technology Co., Ltd</font>**. From July. 2020 to May. 2022, I was responsibile for the application of computer vision technology, such as image classification and objection detection, in large-scale e-commerce scenarios.
 
 # News
 Our paper **DTE-Net: Dynamic-Text-Enhanced Hierarchical Matching for Text-Video Retrieval** is on the way.
