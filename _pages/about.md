@@ -14,10 +14,9 @@ Hi, I am a Ph.D. candidate in the School of Automation and Intelligent Sensing a
 - **Ph.D** in control engineering at [**<font color="red">Shanghai Jiao Tong University</font>**](https://www.sjtu.edu.cn/).
   - Sep. 2022 - Present
 
--  **M.S.** in control engineering at [**<font color="red">Xi'an Jiao Tong University</font>**](https://www.xjtu.edu.cn/).
-  -  Sep. 2017 - Jun. 2020
+- **M.S.** in control engineering at [**<font color="red">Xi'an Jiao Tong University</font>**](https://www.xjtu.edu.cn/).
+  - Sep. 2017 - Jun. 2020
    
-
 - **B.S.** in detection, guidance and control technology at [**<font color="red">Central South University</font>**](https://www.xjtu.edu.cn/).
   - Sep. 2013 - Jun. 2017
 
